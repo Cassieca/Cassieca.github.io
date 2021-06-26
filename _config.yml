@@ -104,4 +104,4 @@ theme: cactus
 deploy:
   type: git
   repo: git@github.com:Cassieca/cassieca.github.io.git
-  branch: master
+  branch: masternpm run deploy
